@@ -30,7 +30,7 @@ twitter_username: ""
 github_username:  ""
 
 # Build settings
-theme: minima
+remote-theme:  poole/lanyon 
 plugins:
   - jekyll-feed
 
