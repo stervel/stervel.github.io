@@ -1,22 +1,35 @@
-# Setup
-title:               Rekabumi 
-tagline:             'Blog hobi dan opini'
-description:         ''
-url:                 ''
-baseurl:             ''
-paginate:            1
-permalink:           pretty
+title: "Rekabumi"
+author: "seven"
+description: "Blog hobi dan opini"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%d %B %Y"
 
-# About/contact
-author:
-  name:              seven
-  url:               ''
-  email:             ''
+# Layout
 
-# Gems
+show_excerpts: true        # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+minimal: true             # use a dark header
+
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  #  - {file: "index.html"}
+  - {file: "about.md"}
+  - {file: "archive.html"}
+
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  #  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
+  #- {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Twitter, icon: twitter, url: "https://www.twitter.com/krivitte"}
+  - {title: Legal, icon: info, url: "/legal-info.html"}
+  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
 plugins:
-  - jekyll-paginate
-
-# Custom vars
-version:             1.1.0
-google_analytics_id: #UA-XXXX-Y
+ - jekyll-feed

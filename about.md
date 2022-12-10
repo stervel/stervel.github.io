@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Tentang blog 
+permalink: "/about/"
+title: "Tentang blog" 
 ---
 
 Pada tahun 1960-an, di awal karirnya sebagai behavioris, seorang ilmuwan John Gluck mengambil seekor bayi makaka dari induknya untuk menekuni perilaku primata. Kemudian, Gluck memelihara makaka tersebut dalam kandang besi yang terisolasi dengan harapan dapat mempelajari dampak pengasingan di perilaku sosial. Suatu ketika, di tengah penelitiannya, Gluck mengalami krisis moral. Merasa iba dan bersesal secara mendalam, di tengah karirnya sebagai behavioris, risetnya terhenti dan kemudian mendaku sebagai etikawan pendukung kesejahteraan hewan.

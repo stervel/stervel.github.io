@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
-title: Obat Panjang Umur
+title: "Obat Panjang Umur"
 ---
 
 Jika kita mengulas puluhan ribu tahun sejarah perjalanan manusia, gurat sejarah mengenai watak ketidakpuasan manusia umum ditemukan. Ketidakberdayaan manusia untuk menaruh kuasa pada faktisitas di sekelilingnya adalah tema yang berulang di seluruh sejarah manusia yang terekam. Salah satu faktisitas tersebut adalah waktu. Manusia tidak puas dengan rentang hidup dirinya yang pendek. Sedari ramuan hidup abadi hingga mesin waktu, manusia tampak haus akan kuasa atas waktu. Selayaknya Aristoteles: "Waktu meruntuhkan segalanya; segala sesuatu menjadi tua dan terlupakan di bawah kuasanya" (Φυσικὴ IV. XII).
+
 
 Setelah puluhan ribu tahun upaya manusia, kini manusia lupa akan tujuan sebenarnya mengapa dirinya ingin berpanjang umur. Padahal, obat panjang umur sudah ditemukan bahkan sebelum entitas apapun mengerti gagasan yang disebut sebagai aktivitas menulis. Sedari makhluk kompleks hingga organisme nirkesadaran, aktivitas menulis dipraktikkan sepanjang waktu, terus-menerus tanpa henti. Ada alasan mengapa dunia masih eksis hingga kini: semua yang ada *tertulis*. Tulisan-tulisan tersebut, pada dasarnya, eksis semata-mata sebagai realisasi model yang penulis pahami atas dunia.
 
