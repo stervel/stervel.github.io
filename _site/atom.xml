@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Rekabumi</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2023-02-18T03:28:42+07:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Obat Panjang Umur</title>
+   <link href="http://localhost:4000/2022/12/09/obat-panjang-umur"/>
+   <updated>2022-12-09T00:00:00+07:00</updated>
+   <id>http://localhost:4000/2022/12/09/obat-panjang-umur</id>
+   <content type="html">&lt;p&gt;Jika kita mengulas puluhan ribu tahun sejarah perjalanan manusia, gurat sejarah mengenai watak ketidakpuasan manusia umum ditemukan. Ketidakberdayaan manusia untuk menaruh kuasa pada faktisitas di sekelilingnya adalah tema yang berulang di seluruh sejarah manusia yang terekam. Salah satu faktisitas tersebut adalah waktu. Manusia tidak puas dengan rentang hidup dirinya yang pendek. Sedari ramuan hidup abadi hingga mesin waktu, manusia tampak haus akan kuasa atas waktu. Selayaknya Aristoteles: “Waktu meruntuhkan segalanya; segala sesuatu menjadi tua dan terlupakan di bawah kuasanya” (Φυσικὴ IV. XII).&lt;/p&gt;
+
+&lt;p&gt;Setelah puluhan ribu tahun upaya manusia, kini manusia lupa akan tujuan sebenarnya mengapa dirinya ingin berpanjang umur. Padahal, obat panjang umur sudah ditemukan bahkan sebelum entitas apapun mengerti gagasan yang disebut sebagai aktivitas menulis. Sedari makhluk kompleks hingga organisme nirkesadaran, aktivitas menulis dipraktikkan sepanjang waktu, terus-menerus tanpa henti. Ada alasan mengapa dunia masih eksis hingga kini: semua yang ada &lt;em&gt;tertulis&lt;/em&gt;. Tulisan-tulisan tersebut, pada dasarnya, eksis semata-mata sebagai realisasi model yang penulis pahami atas dunia.&lt;/p&gt;
+
+&lt;p&gt;Tulisan, setidaknya, lebih kukuh ketimbang rapuhnya hidup. Tulisan bekerja sebagai wahana bagi ide yang temporal dan fana. Tulisan membolehkan kefanaan bahasa terukir dalam beku. &lt;a href=&quot;https://en.wikipedia.org/wiki/Kish_tablet&quot;&gt;Lauh Kish&lt;/a&gt; adalah salah satu bukti suksesnya kerja tulisan sebagai pemanjang umur eksistensi ide manusia yang fana. Namun, lokus pun pada dasarnya fana.&lt;/p&gt;
+
+&lt;p&gt;Kini, dengan loki gagasan kita dapat dibuat dan direplikasi (hampir) infinit, musuh kita bukan lagi rapuhnya medium, melainkan kotak-kotak yang membatasi tiap lokus. Terdapat gangguan antara penulis sebagai input dengan apa yang ditulisnya. Kini, penulis tidak pernah tahu apa yang ditulisnya. Kotak-kotak tersebut, tidak disangka, populer. Hal tersebut adalah masalah dan pada dasarnya adalah ancaman bagi tulisan. Desain adalah upaya yang tidak pernah selesai dan, dalam kasus ini, desain jauh dari selesai.&lt;/p&gt;
+
+&lt;p&gt;Jembatan tersebut sebenarnya sudah diatasi dengan format primitif seperti berkas &lt;em&gt;text file&lt;/em&gt;, tempat tulisan direpresentasi dengan jembatan manusia–komputer yang sederhana dan minimal bising. Namun, &lt;em&gt;plain text&lt;/em&gt; tidak populer dan problem manusia sering muncul karenanya. Satu hal yang membuat informasi tertulis sepanjang sejarah dapat diwariskan dan diakumulasi adalah transparannya hubungan antara penulis dan yang ditulisnya. Namun, pamor format berkas berhak cipta seperti &lt;code&gt;.docx&lt;/code&gt; (milik Microsoft) dan &lt;code&gt;.psd&lt;/code&gt; (Milik Adobe) menghapus transparansi tersebut. Alasan mengapa Lauh Kish dapat diulas dan memantik pikiran ribuan tahun setelah penulisnya mati adalah transparannya medium yang digunakan. Mungkin, ide-ide manusia yang tertuang kini tidak akan bertahan hingga seribu tahun mendatang, kala pemegang hak cipta pupus dan terlupakan di bawah kuasa waktu.&lt;/p&gt;
+
+&lt;p&gt;Saat entitas, apapun itu, menulis, maka ia hidup jauh melebihi rapuh dan fana dirinya.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

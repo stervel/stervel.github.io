@@ -1,35 +1,62 @@
-title: "Rekabumi"
-author: "seven"
-description: "Blog hobi dan opini"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%d %B %Y"
+site: Rekabumi 
+url: #yoururl
+title: Rekabumi
+description: Hobi dan opini 
+twitter:
+  username: stervel
+  card: summary
+  creator: #yourusername
+author:
+  twitter: #yourusername
+  name: #yourusername
+  avatar:
+  email: #youremail
+  url: #yoururl
+permalink: pretty
 
-# Layout
+baseurl: ""
 
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-minimal: true             # use a dark header
+highlighter: none
 
-# Menu
+exclude:
+  - .jekyll-cache
+  
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  #  - {file: "index.html"}
-  - {file: "about.md"}
-  - {file: "archive.html"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  #  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  #- {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Twitter, icon: twitter, url: "https://www.twitter.com/krivitte"}
-  - {title: Legal, icon: info, url: "/legal-info.html"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
+sass:
+  sass_dir:          _sass
+  style:            :compressed
 
 plugins:
- - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap  
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:slug
+  
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
