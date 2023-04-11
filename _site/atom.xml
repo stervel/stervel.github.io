@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Rekabumi</title>
- <link href="/atom.xml" rel="self"/>
- <link href="/"/>
- <updated>2023-02-26T08:00:36+07:00</updated>
- <id></id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2023-04-11T15:54:37+07:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Obat Panjang Umur</title>
-   <link href="/2022/12/09/obat-panjang-umur"/>
+   <link href="http://localhost:4000/2022/12/09/obat-panjang-umur"/>
    <updated>2022-12-09T00:00:00+07:00</updated>
-   <id>/2022/12/09/obat-panjang-umur</id>
+   <id>http://localhost:4000/2022/12/09/obat-panjang-umur</id>
    <content type="html">&lt;p&gt;Jika kita mengulas puluhan ribu tahun sejarah perjalanan manusia, gurat sejarah mengenai watak ketidakpuasan manusia umum ditemukan. Ketidakberdayaan manusia untuk menaruh kuasa pada faktisitas di sekelilingnya adalah tema yang berulang di seluruh sejarah manusia yang terekam. Salah satu faktisitas tersebut adalah waktu. Manusia tidak puas dengan rentang hidup dirinya yang pendek. Sedari ramuan hidup abadi hingga mesin waktu, manusia tampak haus akan kuasa atas waktu. Selayaknya Aristoteles: “Waktu meruntuhkan segalanya; segala sesuatu menjadi tua dan terlupakan di bawah kuasanya” (Φυσικὴ IV. XII).&lt;/p&gt;
 
 &lt;p&gt;Setelah puluhan ribu tahun upaya manusia, kini manusia lupa akan tujuan sebenarnya mengapa dirinya ingin berpanjang umur. Padahal, obat panjang umur sudah ditemukan bahkan sebelum entitas apapun mengerti gagasan yang disebut sebagai aktivitas menulis. Sedari makhluk kompleks hingga organisme nirkesadaran, aktivitas menulis dipraktikkan sepanjang waktu, terus-menerus tanpa henti. Ada alasan mengapa dunia masih eksis hingga kini: semua yang ada &lt;em&gt;tertulis&lt;/em&gt;. Tulisan-tulisan tersebut, pada dasarnya, eksis semata-mata sebagai realisasi model yang penulis pahami atas dunia.&lt;/p&gt;
