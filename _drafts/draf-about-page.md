@@ -2,9 +2,11 @@ Tulisan, bagi saya, adalah momok. Sedari untai coret-coretan tanda bosan hingga 
 
 Ruang tidur milik saya sendiri saya dapati di umur yang cukup dini, tetapi ruangan privat baru saya cecap ketika masa-masa kuliah dan seterusnya. Jauh dari rumah, saya pegang penuh kuasa ruang kost kecil saya. Kerabat mengenal saya sebagai orang yang sulit *pede* dan tampak pada bagaimana saya menangani "ruangan privat" saya. Selama saya tinggal di kost yang sama lebih dari enam tahun itu, selain orang tua, hanya lima orang yang pernah melihat jeroan kamar saya. Jika ada orang yang mengajak bertemu di luar jam kampus, upaya keras untuk bertemu di tempat lain dilakukan; ajakan untuk "main ke kostmu" selalu punya jawaban tidak sebagai batas yang keras. Kala ruangan tersebut dijamah si asing, saya berupaya untuk hadir. Bukan karena curiga tangan jahil atau rendah diri, kehadiran penuh saya semata-mata adalah komplemen rasional atas keberadaan ruang tersebut.
 
-Tulisan menggerus kapasitas kemungkinan saya untuk selalu hadir hingga hampir nadir. Saat tulisan tertuang, keberadaan dalang mati bersamaan dengan kepergian teksnya ke dunia. Ruang yang terbentuk kini hanyalah ruang pameran karya tangan yang sudah tidak ada lagi.
+Tulisan menggerus kapasitas kemungkinan saya untuk selalu hadir hingga hampir nadir. Saat tulisan tertuang, keberadaan dalang mati bersamaan dengan kepergian teksnya ke dunia. Ruang yang terbentuk kini hanyalah ruang pameran karya tangan yang sudah tidak ada lagi. Tampak tidak ada jaminan teks yang telah lepas akan sesuai dengan apa yang ada di otak penulis, sama sekali tidak ada.
 
-ooOOoo
+Jika tulisan adalah momok, maka kegiatan menulis adalah main api. Kegiatan menulis sesuatu, meski pun yang ditulis adalah hal yang sangat lekat dengan penulis, adalah ujian berat untuk mengukur seberapa piawai diri. Pada tuangan awal, semua biasanya akan salah. Jika untaian teks adalah loyang kue, ide di kepala adalah adonan yang kurang penuh tetapi berlebih di saat yang sama.
+
+Jika orang sebut menulis adalah keterampilan, maka problem tersebut sebelumnya adalah tanda tak terampil. Tentu, adalah sebuah kemungkinan ada seseorang yang berpikir selayaknya teks tertulis sehingga tulisan dan pikiran selaras dengan mudah (yang, oleh karena itu, memudahkan menulis). Namun, saya yakin tidak di situ letak mengapa hal tersebut menarik untuk dibahas. Sering dikatakan saking seringnya orang menghitung, arwah matematika hinggap dan tinggal di dalam kepala. Sedari anak teknik hingga pedagang pasar, terlihatlah jelmaan arwahnya.
 
 
 
