@@ -14,7 +14,7 @@ Tidak seperti klise atas orang-orang yang menekuni hal yang serupa dengan saya, 
 
 ### Kontak
 
-Jika ada pertanyaan, saran, atau kritik mengenai konten web ini dan segala yang berkaitan dengannya, termasuk Bahasa Krewi dan Kredan secara umum, jangan sungkan untuk berhubungan dengan saya yang untuk sekarang dapat via Twitter [@krivitte](https://twitter.com/krivitte) atau via email andrea{dot}khalis{at}gmail{dot}com.
+Jika ada pertanyaan, saran, atau kritik mengenai konten web ini dan segala yang berkaitan dengannya, termasuk Bahasa Krewi dan Kredan secara umum, jangan sungkan untuk berhubungan dengan saya yang untuk sekarang dapat via email andrea{dot}khalis{at}gmail{dot}com.
 
 ### Legal
 *Rekabumi* dan seluruh isinya sepenuhnya milik saya (Andrea Khalis), kecuali pada hal-hal yang secara khusus dinyatakan tidak demikian.
