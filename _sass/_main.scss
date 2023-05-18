@@ -39,7 +39,7 @@ pre {
 	margin: 1rem 0;
 }
 
-.post h2:first-child, .project h2:first-child, .photo h2:first-child {
+.post h2:first-child, .project h2:first-child, .photo h2:first-child, .frontpage h2:first-child {
 	margin-top: 0;
 }
 
@@ -205,4 +205,16 @@ figcaption {
 
 kaki {
     text-align: center;
+}
+
+frontpage {
+    margin-top: 20vh;
+}
+
+.frontpage p {
+	margin: .5rem 0;
+}
+
+.frontpage h1, .frontpage h2, .frontpage h3, .frontpage h4 {
+	margin: 1rem 0;
 }
