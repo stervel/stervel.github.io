@@ -196,7 +196,6 @@ section {
 	min-width:70%;
 	display:flex;
 	flex-direction:column;
-	
 }
 
 figcaption {
@@ -211,10 +210,10 @@ frontpage {
     margin-top: 20vh;
 }
 
-.frontpage p {
-	margin: .5rem 0;
+.fpheading {
+	align-items:baseline;
+	display:flex;
+	justify-content:space-between;
+    flex-flow: row wrap;
 }
 
-.frontpage h1, .frontpage h2, .frontpage h3, .frontpage h4 {
-	margin: 1rem 0;
-}
