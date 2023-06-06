@@ -208,10 +208,6 @@ figcaption {
     font-size: smaller;
 }
 
-kaki {
-    text-align: center;
-}
-
 frontpage {
     margin-top: 20vh;
 }
@@ -230,3 +226,13 @@ border-left-style: solid;
 border-left-width: 5px;
 border-left-color: #0087bd;
 }
+
+.myfooter {
+    display: flex;
+    align-content: center;
+margin-top: 2em;
+margin-bottom: 5vh;
+border-top: 1px solid silver;
+}
+
+
