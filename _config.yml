@@ -41,6 +41,8 @@ collections:
   posts:
     output: true
     permalink: /:year/:month/:day/:slug
+  works:
+    output: true
   
 defaults:
   -
