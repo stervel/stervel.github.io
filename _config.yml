@@ -34,6 +34,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap  
 
+imagesurl: "/assets/img/"
+
 collections:
   pages:
     output: true
