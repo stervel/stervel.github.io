@@ -1,19 +1,21 @@
 ---
-layout: default
+layout: page 
 ---
-
-<section class="posts">
-{% assign sorted = "w-cfp16.png" %}
-<div class="work-gallery">
-    {% for name in sorted %}
-    <div class="boxen">
-        <a href="{{ site.imagesurl }}{{ name }}">
-            <img src="{{ site.imagesurl }}{{ name }}" alt="{{ name }}" class="werke" />
-        </a>
-    </div>
-    {% endfor %}
+{% for work in site.works %}
+<div class="wthumb-container">
+    <a href="{{ site.baseurl }}{{ work.permalink }}">
+        <img src="{{ site.baseurl }}/assets/img/{{ work.thumb }}" style="width:100%;">
+    </a>
 </div>
-</section>
-
-
+<div>
+    <a style="text-decoration:none;" href="{{ site.baseurl }}{{ work.permalink }}">
+        <div style="font-weight:600;">
+            {{ work.title }} →
+        </div>
+        <div style="font-size:1rem;">
+            {{ work.kala }}
+        </div>
+    </a>
+</div>
+{% endfor %}
 
