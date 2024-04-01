@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Andre</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2024-04-02T03:14:13+07:00</updated>
- <id>http://localhost:4000</id>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2024-04-02T03:23:44+07:00</updated>
+ <id></id>
  <author>
    <name></name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>‘In Summer’, ephemeral lay put in a love music</title>
-   <link href="http://localhost:4000/2023/08/10/review-jefre-in-summer"/>
+   <link href="/2023/08/10/review-jefre-in-summer"/>
    <updated>2023-08-10T00:00:00+07:00</updated>
-   <id>http://localhost:4000/2023/08/10/review-jefre-in-summer</id>
+   <id>/2023/08/10/review-jefre-in-summer</id>
    <content type="html">&lt;div style=&quot;text-align: center;&quot;&gt;
   &lt;p&gt;&lt;img src=&quot;https://f4.bcbits.com/img/a3365961670_10.jpg&quot; style=&quot;max-width: 60%&quot; /&gt;&lt;br /&gt;
 &lt;a href=&quot;https://shiningskullstudio.bandcamp.com/album/in-summer&quot;&gt;Bandcamp&lt;/a&gt; · &lt;a href=&quot;https://open.spotify.com/album/0dm4BqszjtIGfk749aqWF3&quot;&gt;Spotify&lt;/a&gt;&lt;/p&gt;
@@ -27,7 +27,7 @@
 
 &lt;p&gt;I am biased by that blurb, because I can’t help but imagine an actual travelog—you know … photos, videos, keepsakes—conjured in my head. But I think it’s something that’s really familiar and that I’ve longed to happen to me. I haven’t been long in this world, and maybe the actual count of my “travel”, so to speak, is in the amount of a number countable with two bare hands. Ever since I was finally able to hold my own camera phone, I started taking and keeping numerous pictures, even more so when I embarked on my own journey. My “ritual” is to look those photos back sometime in the future, often with a contemplative sense of nostalgia. This album evokes the idea those “ritual” with the flair of a romanticized way reminiscent of the good old days.&lt;/p&gt;
 
-&lt;p&gt;Talking about numbers, this album has 5 tracks divided into 2 sides (as in tape sides): A1–A2 and B1–B3 each containing 2 separated noise–musique concrète tracks. My mental counting sees this as 3 different “units” which separated as A1–B1, B2, and ultimately B3, based on the themes they carry and the imagery they evoke. As such, I think I will use this frame of thought for the rest of my journey.&lt;/p&gt;
+&lt;p&gt;Talking about numbers, this album has 5 tracks divided into 2 sides (as in tape sides): A1–A2 and B1–B3 each containing 2 separated noise–musique concrète tracks. On the other hand, upon listening, my mental counting sees this as 3 different “units” which separated as A1–B1, B2, and ultimately B3, based on the themes they carry and the imagery they evoke. As such, I think I will use this frame of thought for the rest of my journey.&lt;/p&gt;
 
 &lt;p&gt;The first part opens with “Love’s Refrain” which, as the name tells, carries a simple refrain which is delivered after a simple “intro” that repetitively cycled as if to hypnotize me, the listener, to hum along. It carries, as I said before, the pop 1960–1980 beach music feel with intentional noise and “compressions” which are definitely the glaze, the signature touch of Jefre. The aforementioned refrain itself delivered after the chaotic transition, a boredom among the ephemeral and fleeting moments. Only after that passed, you will know the most beautiful love song that “refrain” holds.&lt;/p&gt;
 
@@ -63,9 +63,9 @@
  
  <entry>
    <title>Obat Panjang Umur</title>
-   <link href="http://localhost:4000/2022/12/09/obat-panjang-umur"/>
+   <link href="/2022/12/09/obat-panjang-umur"/>
    <updated>2022-12-09T00:00:00+07:00</updated>
-   <id>http://localhost:4000/2022/12/09/obat-panjang-umur</id>
+   <id>/2022/12/09/obat-panjang-umur</id>
    <content type="html">&lt;p&gt;Jika kita mengulas puluhan ribu tahun sejarah perjalanan manusia, gurat sejarah mengenai watak ketidakpuasan manusia umum ditemukan. Ketidakberdayaan manusia untuk menaruh kuasa pada faktisitas di sekelilingnya adalah tema yang berulang di seluruh sejarah manusia yang terekam. Salah satu faktisitas tersebut adalah waktu. Manusia tidak puas dengan rentang hidup dirinya yang pendek. Sedari ramuan hidup abadi hingga mesin waktu, manusia tampak haus akan kuasa atas waktu. Selayaknya Aristoteles: “Waktu meruntuhkan segalanya; segala sesuatu menjadi tua dan terlupakan di bawah kuasanya” (Φυσικὴ IV. XII).&lt;/p&gt;
 
 &lt;p&gt;Setelah puluhan ribu tahun upaya manusia, kini manusia lupa akan tujuan sebenarnya mengapa dirinya ingin berpanjang umur. Padahal, obat panjang umur sudah ditemukan bahkan sebelum entitas apapun mengerti gagasan yang disebut sebagai aktivitas menulis. Sedari makhluk kompleks hingga organisme nirkesadaran, aktivitas menulis dipraktikkan sepanjang waktu, terus-menerus tanpa henti. Ada alasan mengapa dunia masih eksis hingga kini: semua yang ada &lt;em&gt;tertulis&lt;/em&gt;. Tulisan-tulisan tersebut, pada dasarnya, eksis semata-mata sebagai realisasi model yang penulis pahami atas dunia.&lt;/p&gt;
