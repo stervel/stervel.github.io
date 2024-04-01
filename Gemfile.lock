@@ -55,7 +55,7 @@ GEM
     rb-fsevent (0.11.2)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    rexml (3.2.5)
+    rexml (3.2.6)
     rouge (4.1.1)
     safe_yaml (1.0.5)
     sass-embedded (1.62.1-x86_64-linux-gnu)
@@ -66,7 +66,7 @@ GEM
     webrick (1.8.1)
 
 PLATFORMS
-  x86_64-linux
+  x86_64-linux-gnu
 
 DEPENDENCIES
   jekyll
@@ -75,4 +75,4 @@ DEPENDENCIES
   jekyll-sitemap
 
 BUNDLED WITH
-   2.4.12
+   2.5.4
