@@ -1,10 +1,10 @@
 site: Andre - I write
 url: #yoururl
 title: Andre
-description: Writings 
+description: Writings
 twitter:
-  username: 
-  card: 
+  username:
+  card:
   creator: #yourusername
 author:
   twitter: #yourusername
@@ -20,19 +20,20 @@ highlighter: none
 
 exclude:
   - .jekyll-cache
-  
+
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
 
 sass:
-  sass_dir:          _sass
-  style:            :compressed
+  sass_dir: _sass
+  style: :compressed
 
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-sitemap  
+  - jekyll-sitemap
+  - jekyll-figure
 
 imagesurl: "/assets/img/"
 
@@ -45,21 +46,18 @@ collections:
     permalink: /:year/:month/:day/:slug
   works:
     output: true
-  
+
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
       layout: "default"
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
       layout: "page"
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:

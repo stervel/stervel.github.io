@@ -74,6 +74,11 @@ img {
 	max-width:100%;
 }
 
+figure {
+max-width:100%;
+float: none;
+}
+
 hr {
 	background: #000;
     height: 1px;
@@ -168,7 +173,7 @@ strong, b {
 main {
 	display:flex;
 	flex-wrap:wrap;
-	max-width:42rem;
+	max-width:50rem;
 	margin:2rem auto;
 	padding:1rem;
 }
@@ -205,7 +210,10 @@ section {
 }
 
 figcaption {
-    font-size: smaller;
+    font-size: 1rem;
+text-align: center;
+font-style: italic;
+	margin-bottom: .5rem;
 }
 
 frontpage {
