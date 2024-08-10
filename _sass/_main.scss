@@ -7,9 +7,10 @@
 }
 
 body {
-	font-family: 'Inter', sans-serif;
-    font-feature-settings: "ss01", "tnum";
+	font-family: 'Source Sans 3', 'Helvetica', 'Arial', sans-serif;
+    font-feature-settings: 'tnum', 'onum';
 	-webkit-font-smoothing: antialiased;
+   font-optical-sizing: auto;
     text-rendering: optimizeLegibility;
 	line-height:1.5;
 	font-size: 1.2rem;
