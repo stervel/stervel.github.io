@@ -20,7 +20,7 @@ In June 2023, [The Strategic Lab](https://linktr.ee/Thestrategiclab), an organiz
 ![a sample of the page](/assets/img/w-mfa-b.png)
 {% endfigure %}
 
-{% figure caption:"A design of the timeline of a person's life, one of the front matters" %}
+{% figure caption:"A design of the timeline of a person's life, one of the front matters. The design process of this part was particularly challenging." %}
 ![a design of timeline](/assets/img/w-mfa-a.png)
 {% endfigure %}
 
