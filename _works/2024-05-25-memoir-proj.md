@@ -1,6 +1,6 @@
 ---
 layout: work
-title: The Strategic Lab "Mhd Fadhil Arief", a memoir
+title: The Strategic Lab “Mhd Fadhil Arief”, a memoir
 kala: "2023"
 permalink: "/works/id-mfa/"
 thumb: "w-mfasq.png"

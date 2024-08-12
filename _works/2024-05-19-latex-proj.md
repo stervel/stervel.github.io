@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Antinomi Institute's LaTeX works
+title: Antinomi Institute’s LaTeX works
 kala: "2022–2023"
 permalink: "/works/latex-works/"
 thumb: "w-latexsq.png"
