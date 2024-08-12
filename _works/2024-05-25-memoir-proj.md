@@ -24,7 +24,7 @@ In June 2023, [The Strategic Lab](https://linktr.ee/Thestrategiclab), an organiz
 ![a design of timeline](/assets/img/w-mfa-a.png)
 {% endfigure %}
 
-{% figure caption:"Chapter divider. Background is the outline of rivers of Jambi, from which their slogans, which I personally queried and set from the OSM data." %}
+{% figure caption:"Chapter divider. Background is the outline of the many rivers of the swath of Jambi, from which their slogans, which I personally queried and set from the OSM data." %}
 ![a small art of the chapter divider](/assets/img/w-mfa-cdiv.png)
 {% endfigure %}
 
