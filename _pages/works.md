@@ -1,7 +1,9 @@
 ---
-layout: page 
+layout: page
 ---
-{% for work in site.works %}
+
+{% for work in site.works reversed %}
+
 <div class="wthumb-container">
     <a href="{{ site.baseurl }}{{ work.permalink }}">
         <img src="{{ site.baseurl }}/assets/img/{{ work.thumb }}" style="width:100%;">
@@ -18,4 +20,3 @@ layout: page
     </a>
 </div>
 {% endfor %}
-
